@@ -6,7 +6,7 @@ TodoFlow is a sleek to-do list app built with Django, offering a clean pastel UI
 ![](todo_django_ss2.png)
 ![](todo_django_ss3.png)
 ![](todo_django_ss4.png)
-![](todo_ui_web.png)
+
 
 
 
